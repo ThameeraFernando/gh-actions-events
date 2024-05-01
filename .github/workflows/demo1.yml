@@ -1,4 +1,4 @@
-name: Events Demo 1
+name: Events Demo 1 activity types and event filters
 on:
   pull_request:
     types: [opened, edited, closed]
